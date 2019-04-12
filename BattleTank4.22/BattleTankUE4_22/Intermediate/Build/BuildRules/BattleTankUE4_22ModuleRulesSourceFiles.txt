@@ -1,0 +1,3 @@
+C:\Users\rick_\OneDrive\Documentos\Battle-of-Tanks\BattleTank4.22\BattleTankUE4_22\Source\BattleTankUE4_22\BattleTankUE4_22.Build.cs
+C:\Users\rick_\OneDrive\Documentos\Battle-of-Tanks\BattleTank4.22\BattleTankUE4_22\Source\BattleTankUE4_22.Target.cs
+C:\Users\rick_\OneDrive\Documentos\Battle-of-Tanks\BattleTank4.22\BattleTankUE4_22\Source\BattleTankUE4_22Editor.Target.cs

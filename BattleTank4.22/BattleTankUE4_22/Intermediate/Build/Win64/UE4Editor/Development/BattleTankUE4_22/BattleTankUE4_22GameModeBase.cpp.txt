@@ -1,0 +1,7 @@
+C:\Users\rick_\OneDrive\Documentos\Battle-of-Tanks\BattleTank4.22\BattleTankUE4_22\Intermediate\Build\Win64\UE4Editor\Development\BattleTankUE4_22\Definitions.BattleTankUE4_22.h
+c:\users\rick_\onedrive\documentos\battle-of-tanks\battletank4.22\battletankue4_22\source\battletankue4_22\BattleTankUE4_22GameModeBase.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\rick_\OneDrive\Documentos\Battle-of-Tanks\BattleTank4.22\BattleTankUE4_22\Intermediate\Build\Win64\UE4Editor\Inc\BattleTankUE4_22\BattleTankUE4_22GameModeBase.generated.h
